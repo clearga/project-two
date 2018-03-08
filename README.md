@@ -56,10 +56,10 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
 
 
-* **Wednesday, April 6th by 3:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Weekdays, April 7th-11th** - Standups @ 10:00am. Afternoon 1:1s with instructors.
-* **Monday, April 11th** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Tuesday, April 12th @ 10am** - Project due and presentations!
+* **Wednesday, March  11th by 3:00pm** - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Weekdays, March 16th to 20th** - Standups @ 10:00am
+* **Tuesday, March 20th @ 3pm** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Wednesday, March 21st @ 10am** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -85,7 +85,7 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 * A link to your website **hosted on Heroku**
 * A link to your **source code on GitHub**
 * A `README.md` file that serves as your **project documentation** (this is important!)
-* A **brief presentation**, in the company of friends, illustrating:
+* A **10 minute presentation**, in the company of friends, illustrating:
     - Triumphs
     - Challenges
     - Words of Wisdom
