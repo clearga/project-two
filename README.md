@@ -19,11 +19,11 @@ Make sure to do all of the following with your app.
 * **RESTful Routes** Design your CRUD routes using the [REST](http://restfulrouting.com/mappings/resources) convention.
 * **AJAX** Leverage AJAX to fetch JSON data from the backend.
 * **jQuery** Use jQuery to add interactivity and render data on the client-side.  
-* **Templating** Render the JSON data on the frontend using handlebars templates.  
+* **Templating** Render the JSON data on the frontend using template strings.  
 * **MongoDB** Persist at least two models to a Mongo Database. Use at least one one-to-many or many-to-many relationship between models. You can choose to reference or embed your data.  
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript).
-* **Visual Design** Use Twitter Bootstrap, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
+* **Visual Design** Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
 * **Heroku** Deploy your app to Heroku.
 * **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](./example-readme.md) for a suggested structure.
 
@@ -98,14 +98,13 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>Terrence, Martin, Srishti</li>
-   <li>Jamila, Lamberto, Marcelino</li>
-   <li>Mario, Felix, Halim</li>
-   <li>Natalie, Karthik, Katie</li>
-   <li>Elaine, Dereje, Kingsley</li>
-   <li>Lisa, Juan, Kerensky</li>
-   <li>Erik, Hunter, Terrell</li>
-   <li>Manjila, Omar, Garima</li>
+   <li>Dalton & Fanny</li>
+   <li>Ben & Chris</li>
+   <li>JP & June</li>
+   <li>Teri & Biniam</li>
+   <li>Max & Kevin</li>
+   <li>Riki & Sharon</li>
+   <li>Aaron & Troy</li>
  </ul>
 </details>
 
