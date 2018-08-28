@@ -98,13 +98,8 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>Dalton & Fanny</li>
-   <li>Ben & Chris</li>
-   <li>JP & June</li>
-   <li>Teri & Biniam</li>
-   <li>Max & Kevin</li>
-   <li>Riki & Sharon</li>
-   <li>Aaron & Troy</li>
+   <li>Dalton & Justin</li>
+ 
  </ul>
 </details>
 
