@@ -98,7 +98,19 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
    <li>Dalton & Justin</li>
- 
+  <li>Alan,  Natalie </li>
+
+
+ <li>Raj,  Luke </li>
+
+
+ <li>Wai ka,  Gino </li>
+
+
+ <li>Yi,  Sofia </li>
+
+
+ <li>Andrea,  Francisco </li>
  </ul>
 </details>
 
