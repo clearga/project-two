@@ -10,7 +10,7 @@ The objective of this project is to:
 * Demonstrate mastery of topics covered during this course so far.  
 * Build a polished, published website you can share in your portfolio.  
 
-You will be working **With a Partner** for this first project. Show us what you've got!
+You will be working **with 2-3 partners** for this first project. Show us what you've got!
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
@@ -53,12 +53,12 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
+> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1mwRPs_yAO6wy7F4iZQH4PNzoCQo5Vbvhr7REza6_1bU/edit?usp=sharing).
 
 
-* **Tuesday, August 28th by 3:00pm** - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Tuesday, September 4th @ 3pm** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Wednesday, September 5th @ 10am** - Project due and presentations!
+* **Friday, February 15th by 3:00pm** - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Thursday, February 21st @ 5pm** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Friday, February 22nd @ 2:30pm** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -92,25 +92,12 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 ## Presentation Tips
 * Please zoom your browser window to 150%.
-* Please set your SublimeText font to at least 20.0 pixels.
+* Please set your Text Editor font to at least 20.0 pixels.
 * And speak up!
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>Dalton & Justin</li>
-  <li>Alan,  Natalie </li>
-
-
- <li>Raj,  Luke </li>
-
-
- <li>Wai ka,  Gino </li>
-
-
- <li>Yi,  Sofia </li>
-
-
- <li>Andrea,  Francisco </li>
+   
  </ul>
 </details>
 
