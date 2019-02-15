@@ -97,7 +97,16 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   
+   <li>Brandon J, Enrique, Isaac</li>
+   <li>Amberly, Ronni, Joe</li>
+   <li>Tristan, Jason, Alom</li>
+   <li>Nassima,  Lou, Matt </li>
+   <li>Chike,  Siri, Heggy</li>
+   <li>Eunice,  Ghenet, Luke</li>
+   <li>Leo, Rhea, Mike</li>
+   <li>Christina, Brandon C, Tiffany</li>
+   <li>Paris, Jon R, Karma</li>
+   <li>Nicolette, JJ, Bryant, Darnell</li>
  </ul>
 </details>
 
