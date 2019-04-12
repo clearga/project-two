@@ -56,9 +56,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1ZZ14IalbihYiT0U8EjroalmjmN08DhVsE5oiEAUuiIY/edit#gid=0).
 
 
-* **Friday, February 15th by 3:00pm** - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Thursday, February 21st @ 5pm** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Friday, February 22nd @ 2:30pm** - Project due and presentations!
+* **Friday, April 12th by 3:00pm** - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Thursday, April 18th @ 5pm** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Friday, April 19th @ 2:30pm** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -97,16 +97,16 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>Brandon J, Enrique, Isaac</li>
-   <li>Amberly, Ronni, Joe</li>
-   <li>Tristan, Jason, Alom</li>
-   <li>Nassima,  Lou, Matt </li>
-   <li>Chike,  Siri, Heggy</li>
-   <li>Eunice,  Ghenet, Luke</li>
-   <li>Leo, Rhea, Mike</li>
-   <li>Christina, Brandon C, Tiffany</li>
-   <li>Paris, Jon R, Karma</li>
-   <li>Nicolette, JJ, Bryant, Darnell</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
  </ul>
 </details>
 
