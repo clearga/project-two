@@ -97,16 +97,11 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
+   <li>Travis, Allen, Michael</li>
+   <li>David, Zachary, Justin</li>
+   <li>Johnson, Joseph, Paw</li>
+   <li>Ridwan, Tiffany, Teresa</li>
+   <li>Brett "Fox", Jerusalem "J", Katie</li>
  </ul>
 </details>
 
