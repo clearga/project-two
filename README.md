@@ -16,7 +16,7 @@ You will be working **with 2-3 partners** for this first project. Show us what y
 Make sure to do all of the following with your app.
 
 * **Express API** Build an Express Application that has both HTML and JSON endpoints.
-* **RESTful Routes** Design your CRUD routes using the [REST](http://restfulrouting.com/mappings/resources) convention.
+* **RESTful Routes** Design your CRUD routes using the [REST](https://git.generalassemb.ly/sf-sei-1/express-dynamic-routes#restful-routing-preview) convention.
 * **AJAX** Leverage AJAX to fetch JSON data from the backend.
 * **jQuery** Use jQuery to add interactivity and render data on the client-side.  
 * **Templating** Render the JSON data on the frontend using template strings.  
