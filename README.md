@@ -56,9 +56,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1ZZ14IalbihYiT0U8EjroalmjmN08DhVsE5oiEAUuiIY/edit#gid=0).
 
 
-* **Monday, April 15th by 3:00pm** - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Thursday, April 18th @ 5pm** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Friday, April 19th @ 2:30pm** - Project due and presentations!
+* **TBA* - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **TBA** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **TBA* - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -97,11 +97,11 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>Travis, Allen, Michael</li>
-   <li>David, Zachary, Justin</li>
-   <li>Johnson, Joseph, Paw</li>
-   <li>Ridwan, Tiffany, Teresa</li>
-   <li>Brett "Fox", Jerusalem "J", Katie</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
+   <li>*</li>
  </ul>
 </details>
 
