@@ -56,9 +56,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1ZZ14IalbihYiT0U8EjroalmjmN08DhVsE5oiEAUuiIY/edit#gid=0).
 
 
-* **TBA* - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **TBA** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **TBA* - Project due and presentations!
+* **Monday, July 22nd* - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Thursday, July 25th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Friday, July 26th* - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -97,11 +97,16 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
-   <li>*</li>
+   <li>Alex, Joseph</li>
+   <li>Christian, John</li>
+   <li>Dylan, James L</li>
+   <li>Jacky, Pouya</li>
+   <li>Jackson, Eduardo</li>
+   <li>Lawrence - Jane</li>
+   <li>Maekella - Aza</li>
+   <li>Meg, James W</li>
+   <li>Nabil, Scott</li>
+   <li>Octavio, Zafar</li>
  </ul>
 </details>
 
