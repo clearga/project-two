@@ -97,16 +97,16 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>Alex, Joseph</li>
-   <li>Christian, John</li>
-   <li>Dylan, James L</li>
-   <li>Jacky, Pouya</li>
-   <li>Jackson, Eduardo</li>
-   <li>Lawrence, Jane</li>
-   <li>Maekella, Aza</li>
-   <li>Meg, James W</li>
-   <li>Nabil, Scott</li>
-   <li>Octavio, Zafar</li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
  </ul>
 </details>
 
