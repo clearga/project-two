@@ -97,16 +97,19 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
+   <li>Mick - Hermin</li>
+   <li>Kenneth - Felipe</li>
+   <li>Hugo - David</li>
+   <li>Karra - Jeremiah</li>
+   <li>Adil - Pouyesh</li>
+   <li>Daniel - Andy</li>
+   <li>Jeremy - Julian</li>
+   <li>Adonis - Izzy</li>
+   <li>Jun - Brent</li>
+   <li>Jay - Jack</li>
+   <li>Ali - Jeff</li>
+   <li>Linh - Lindsey</li>
+   <li>Carson - Tonya</li>
  </ul>
 </details>
 
