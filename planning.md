@@ -78,6 +78,43 @@ Use an entity relationship diagram (ERD) to plan out your data models and any re
 * How will the models interact with each other?
 * What attributes (properties) will the schemas have, and what kind of data types (string, integer, collection, etc.) will they use?
 
+
+### Numerical Categories for Relationships
+
+### One-to-One
+
+Each person has one brain, and each (living human) brain belongs to one person.
+
+![one to one erd example](https://cloud.githubusercontent.com/assets/3254910/18140904/4d85c04e-6f6c-11e6-8301-c06bacff3dd3.png)
+
+One-to-one relationships can sometimes just be modeled with simple attributes. A person and a brain are both complex enough that we might want to have their data in different models, with lots of different attributes on each.
+
+### One-to-Many
+
+Each leaf "belongs to" the one tree it grew from, and each tree "has many" leaves.
+
+![one to many erd example](https://cloud.githubusercontent.com/assets/3254910/18182445/e4bddb6c-7044-11e6-9099-314b773724f3.png)
+
+
+### Many-to-Many
+
+Each student "has many" classes they attend, and each class "has many" students.
+
+
+![many to many erd example](https://cloud.githubusercontent.com/assets/3254910/18140903/4c56c3ee-6f6c-11e6-9b6d-4c6ffae81323.png)
+
+
+#### Entity Relationship Diagrams
+
+Entity relationship diagrams (ERDs) represent information about the numerical relationships between data, or entities.
+
+![entity relationship diagram example](https://cloud.githubusercontent.com/assets/3254910/18141666/439d9392-6f6f-11e6-953f-c91415b85f3f.png)
+
+
+Note: In the example above, all of the Item1, Item2, Item3 under each heading are standing in for attributes.
+
+[More guidelines for ERDs](http://docs.oracle.com/cd/A87860_01/doc/java.817/a81358/05_dev1.htm)
+
 ### Feasibility Check
 
 Before you get started, you'll want to do some research to see if what you're looking to do is possible in the amount of time you have. Some areas that you might want to investigate, depending on your app's desired functionality are:
