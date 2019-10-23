@@ -20,7 +20,7 @@ Make sure to do all of the following with your app.
 * **AJAX** Leverage AJAX to fetch JSON data from the backend.
 * **jQuery** Use jQuery to add interactivity and render data on the client-side.  
 * **Templating** Render the JSON data on the frontend using template strings.  
-* **MongoDB** Persist at least two models to a Mongo Database. Use at least one one-to-many or many-to-many relationship between models. You can choose to reference or embed your data.  
+* **MongoDB** Persist at least two models to a Mongo Database. Use at least one one-to-many or many-to-many relationship between models. You can choose to reference or embed your data. At least one model needs to include full CRUD functionality.
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript).
 * **Visual Design** Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
