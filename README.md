@@ -56,9 +56,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1ZZ14IalbihYiT0U8EjroalmjmN08DhVsE5oiEAUuiIY/edit#gid=0).
 
 
-* **Friday, October 18th** - Present your app plan to your instructors. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Thursday, October 24th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Friday, October 25th** - Project due and presentations!
+* **Monday, Jan 27th** - Plan your application. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor! This will happen after the Collab. **Thursday, Jan 30th**
+* **Wednesday, Feb 4th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Thursday, Feb 5th** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -97,19 +97,7 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
   <ul>
-   <li>Mick - Hermin</li>
-   <li>Kenneth - Felipe</li>
-   <li>Hugo - David</li>
-   <li>Karra - Jeremiah</li>
-   <li>Adil - Pouyesh</li>
-   <li>Daniel - Andy</li>
-   <li>Jeremy - Julian</li>
-   <li>Adonis - Izzy</li>
-   <li>Jun - Brent</li>
-   <li>Jay - Jack</li>
-   <li>Ali - Jeff</li>
-   <li>Linh - Lindsey</li>
-   <li>Carson - Tonya</li>
+  
  </ul>
 </details>
 
