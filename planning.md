@@ -151,6 +151,3 @@ Once you have an index page populated with data from the database, you can move 
 * [ ] Make an AJAX call to a `PUT` route on your server that updates individual data items.
 * [ ] Create the `PUT` route on your server that updates individual items in the database.
 
-## Submission
-
-You must submit all of your planning deliverables in-person to your instructor, *and* get approved, by **Monday, July 22nd at 3:00pm**. Please create physical (or electronic) documents for each deliverable, and upload them to the <a href="https://trello.com" target="_blank">Trello</a> board you create for your project. For any items done on paper, please take a photo to upload to Trello.
