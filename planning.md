@@ -26,7 +26,7 @@ The same applies to the scope of your project. If you're always looking at the t
 
 Figure out the absolutely smallest thing you can do, and do that thing. Not the next immediate thing, but the simplest possible implementation of your app. If that means that the entire functionality of your app consists of displaying all of a user's photos from their Flickr account and saving a favorite photo url to the database that is totally great.
 
-Don't think so? Check out the [requirements](https://git.generalassemb.ly/sf-sei-3/project-01/blob/master/README.md#core-requirements). It's all there - your own Node/Express API, `user` and `photo` models associated with each other, AJAX, and even an external API call!
+Don't think so? Check out the [requirements](https://git.generalassemb.ly/sf-sei/project-one/blob/master/README.md#core-requirements). It's all there - your own Node/Express API, `user` and `photo` models associated with each other, AJAX, and even an external API call!
 
 See? You did it!
 
@@ -40,7 +40,7 @@ Outline your core user stories, and divide them into clear, smaller steps (somet
 Might consist of these steps:
 
 * Wireframe what a profile page will look like.
-* Create an `hbs` template for a profile page
+* Create a template for a profile page
 * Write a server route to serve the profile page
 * Create a schema for a dog, defining attributes (e.g. name, age, favorite chew toy, etc.).
 * Create a page / form / route to create a new user in the database.
