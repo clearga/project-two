@@ -2,13 +2,14 @@
 
 ## DESCRIPTION
 
-It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using jQuery and AJAX, Express, Node.js, Mongoose, and MongoDB.
+It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using Express, Node.js, Mongoose, and MongoDB.
 
 The objective of this project is to:
 
 * Apply the skills you've learned by building a full-stack web application from the ground up.
 * Demonstrate mastery of topics covered during this course so far.  
-* Build a polished, published website you can share in your portfolio.  
+* Build a polished, published website you can share in your portfolio.
+* 'Canadian Sorry' no games, that was last project  
 
 You will be working **with 2-3 partners** for this first project. Show us what you've got!
 
@@ -17,8 +18,6 @@ Make sure to do all of the following with your app.
 
 * **Express API** Build an Express Application that has both HTML and JSON endpoints.
 * **RESTful Routes** Design your CRUD routes using the [REST](https://git.generalassemb.ly/sf-sei-1/express-dynamic-routes#restful-routing-preview) convention.
-* **AJAX** Leverage AJAX to fetch JSON data from the backend.
-* **jQuery** Use jQuery to add interactivity and render data on the client-side.  
 * **Templating** Render the JSON data on the frontend using template strings.  
 * **MongoDB** Persist at least two models to a Mongo Database. Use at least one one-to-many or many-to-many relationship between models. You can choose to reference or embed your data. **At least one model needs to include full CRUD functionality.**
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
@@ -49,12 +48,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Model Methods** Level up your models by adding a method to one of your schemas.  For example, a person schema with `firstName` and `lastName` can have a `fullName` method (see mongoose docs on [instance methods](http://mongoosejs.com/docs/guide.html#methods) and [static methods](http://mongoosejs.com/docs/guide.html#statics)).
 * **Authentication** Enable users to store account information and signup, login, and logout.
 * **Sass** Use a CSS pre-compiler to write more imperative CSS.
-* **Whatever else inspires you!**
+* **<Insert own idea>**
 
 ## TIMELINE
-
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1ZZ14IalbihYiT0U8EjroalmjmN08DhVsE5oiEAUuiIY/edit#gid=0).
-
 
 * **Monday, Jan 27th** - Plan your application. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor! This will happen after the Collab. **Thursday, Jan 30th**
 * **Wednesday, Feb 4th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
@@ -96,9 +92,16 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 * And speak up!
 
 <details><summary><h3>Happy Coding :)</h3></summary>
-  <ul>
-  
- </ul>
+
+tomato , tomato, potato <br>
+Group 1 Norbert, Seth, Jelani <br>
+Group 2 Alexander, Boubacar, Samantha <br>
+Group 3 Kiraah, Dylan, Christine <br>
+Group 4 Matthew N, Christian, Vlad <br>
+Group 5 Daniel, Larry, Sharon <br>
+Group 6 Matthew B, Evan, Manny <br>
+Group 7 Christopher, Stevan, Camille <br>
+Group 8 Marissa, Olga <br>
 </details>
 
 
