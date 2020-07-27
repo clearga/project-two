@@ -52,9 +52,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-* **Monday, Jan 27th** - Plan your application. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor! This will happen after the Collab. **Thursday, Jan 30th**
-* **Wednesday, Feb 4th @ 4:00 PM** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Thursday, Feb 5th** - Project due and presentations!
+* **Friday, Aug 7th** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -93,7 +91,6 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
 
-tomato , tomato, potato <br>
 Group 1 Norbert, Seth, Jelani <br>
 Group 2 Alexander, Boubacar, Samantha <br>
 Group 3 Kiraah, Dylan, Christine <br>
