@@ -16,9 +16,8 @@ You will be working **with 2-3 partners** for this first project. Show us what y
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
 
-* **Express API** Build an Express Application that has both HTML and JSON endpoints.
+* **Express** Build an Express Application that responds with server-rendered HTML.
 * **RESTful Routes** Design your CRUD routes using the [REST](https://git.generalassemb.ly/sf-sei-1/express-dynamic-routes#restful-routing-preview) convention.
-* **Templating** Render the JSON data on the frontend using template strings.  
 * **MongoDB** Persist at least two models to a Mongo Database. Use at least one one-to-many or many-to-many relationship between models. You can choose to reference or embed your data. **At least one model needs to include full CRUD functionality.**
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript).
