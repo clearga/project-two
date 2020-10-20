@@ -89,17 +89,21 @@ We will have a debugging queue throughout the week. Remember to have lots of deb
 
 <details><summary><h3>Happy Coding :)</h3></summary>
 
-Group 1 
-Group 2 
-Group 3 
-Group 4 
-Group 5 
-Group 6 
-Group 7 
-Group 8 
-Group 8 
-Group 8 
-Group 8 
+| Group | Participants |
+|------|--------------|
+| Group 1 | nile devin jeffrey |
+| Group 2 | booker derek jamieden |
+| Group 3 | edmund bevon nick |
+| Group 4 | brian caleb antonio |
+| Group 5 | endia brock jane |
+| Group 6 | noah theodore edward |
+| Group 7 | mario martin tess |
+| Group 8 | tavis maria lucy |
+| Group 9 | casey ashley liana |
+| Group 10 | chris danny |
+| Group 11 | lauren kelsey |
+
+
 </details>
 
 
