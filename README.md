@@ -11,7 +11,7 @@ The objective of this project is to:
 * Build a polished, published website you can share in your portfolio.
 * 'Canadian Sorry' no games, that was last project  
 
-You will be working **with 3-4 partners** for this first project. Show us what you've got!
+You will be working **with 2-3 partners** for this first project. Show us what you've got!
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
@@ -22,7 +22,7 @@ Make sure to do all of the following with your app.
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript).
 * **Visual Design** Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
-* **Heroku** Deploy your app to Heroku.
+* **Authentication** Enable users to store account information and signup, login, and logout.
 * **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](./example-readme.md) for a suggested structure.
 
 ## PLANNING DELIVERABLES
@@ -44,7 +44,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Back-End Data Validation** Validate data on the back-end using sequelize [built-in validations](https://sequelize.org/master/manual/validations-and-constraints.html), or make your own custom validation.
 * **More Models or Relationships** Add another model to your project or create a new relationship.
 * **External API** Use an external API to integrate rich data into your app.
-* **Authentication** Enable users to store account information and signup, login, and logout.
+* **Heroku** Deploy your app to Heroku.
 * **Sass** Use a CSS pre-compiler to write more imperative CSS.
 * **<Insert own idea>**
 
@@ -96,6 +96,9 @@ Group 4
 Group 5 
 Group 6 
 Group 7 
+Group 8 
+Group 8 
+Group 8 
 Group 8 
 </details>
 
