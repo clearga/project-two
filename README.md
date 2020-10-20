@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using Express, Node.js, Mongoose, and MongoDB.
+It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using Express, Node.js, Sequelize, and Postgres.
 
 The objective of this project is to:
 
@@ -11,14 +11,14 @@ The objective of this project is to:
 * Build a polished, published website you can share in your portfolio.
 * 'Canadian Sorry' no games, that was last project  
 
-You will be working **with 2-3 partners** for this first project. Show us what you've got!
+You will be working **with 3-4 partners** for this first project. Show us what you've got!
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
 
 * **Express** Build an Express Application that responds with server-rendered HTML.
 * **RESTful Routes** Design your CRUD routes using the [REST](https://git.generalassemb.ly/sf-sei-1/express-dynamic-routes#restful-routing-preview) convention.
-* **MongoDB** Persist at least two models to a Mongo Database. Use at least one one-to-many or many-to-many relationship between models. You can choose to reference or embed your data. **At least one model needs to include full CRUD functionality.**
+* **Postgres** Persist at least two models to a Ppostgres Database. Use at least one **one-to-many** or **many-to-many** relationship between models. **At least one model needs to include full CRUD functionality.**
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript).
 * **Visual Design** Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
@@ -41,17 +41,16 @@ Once your project has been approved, create a **GitHub Repo** for your project a
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
 
 * **Front-End Data Validation** Validate data on the front-end by handling incorrect form inputs during create/update. For example, when a form is submitted, check that a field has some text in it, or that its value is a number.
-* **Back-End Data Validation** Validate data on the back-end using mongoose's [built-in validations](http://mongoosejs.com/docs/validation.html#built-in-validators), or make your own custom validation.
+* **Back-End Data Validation** Validate data on the back-end using sequelize [built-in validations](https://sequelize.org/master/manual/validations-and-constraints.html), or make your own custom validation.
 * **More Models or Relationships** Add another model to your project or create a new relationship.
 * **External API** Use an external API to integrate rich data into your app.
-* **Model Methods** Level up your models by adding a method to one of your schemas.  For example, a person schema with `firstName` and `lastName` can have a `fullName` method (see mongoose docs on [instance methods](http://mongoosejs.com/docs/guide.html#methods) and [static methods](http://mongoosejs.com/docs/guide.html#statics)).
 * **Authentication** Enable users to store account information and signup, login, and logout.
 * **Sass** Use a CSS pre-compiler to write more imperative CSS.
 * **<Insert own idea>**
 
 ## TIMELINE
 
-* **Friday, Aug 7th** - Project due and presentations!
+* **Friday, Oct 30th** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -69,7 +68,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 See the [feedback document](./feedback.md) for the criteria on which your project will be evaluated.
 
 ## ACCESS TO INSTRUCTORS
-We will hold 1:1s throughout the week. We will also do mini lessons on certain topics if we notice that several people are running into the same issues.
+We will have a debugging queue throughout the week. Remember to have lots of debuggin `console.logs` and have tried to look into some solutions on your own first. We will also do mini lessons on certain topics if we notice that several people are running into the same issues.
 
 ## FINAL DELIVERABLES
 
@@ -90,14 +89,14 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 
 <details><summary><h3>Happy Coding :)</h3></summary>
 
-Group 1 Norbert, Seth, Jelani <br>
-Group 2 Alexander, Boubacar, Samantha <br>
-Group 3 Kiraah, Dylan, Christine <br>
-Group 4 Matthew N, Christian, Vlad <br>
-Group 5 Daniel, Larry, Sharon <br>
-Group 6 Matthew B, Evan, Manny <br>
-Group 7 Christopher, Stevan, Camille <br>
-Group 8 Marissa, Olga <br>
+Group 1 
+Group 2 
+Group 3 
+Group 4 
+Group 5 
+Group 6 
+Group 7 
+Group 8 
 </details>
 
 
