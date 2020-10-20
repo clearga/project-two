@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using Express, Node.js, Sequelize, and Postgres.
+It's time to put everything that you've learned in the past month together! For your second project you will build a full stack web application using Express, Node.js, Sequelize, and Postgres.
 
 The objective of this project is to:
 
