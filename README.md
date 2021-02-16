@@ -45,7 +45,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **External API** Use an external API to integrate rich data into your app.
 * **Heroku** Deploy your app to Heroku.
 * **Sass** Use a CSS pre-compiler to write more imperative CSS.
-* **<Insert own idea>**
 
 ## TIMELINE
 * **Monday, February 22nd** - Project planning materials are due and approval meetings with instructors will take place.
@@ -63,6 +62,16 @@ If you want to push yourself and learn something new, optionally consider doing 
 * Appropriately commented
   - use comments to plan, but remove the unnecessary comments for your professional portfolio
   - prefer a well-named semantic variable or function to a comment
+
+#### Group collaboration must be...
+* Respectful
+  - like you would in class or at work, be professional and respectful
+  - resolve differences of opinion or approach internally
+  - assume the positive intent of your teammates
+* Fair
+  - group members are expected to contribute to the project equally
+  - be active about including all members of the group; if a group member has nothing to do, invite them to pair program
+  - commit, merge, and deploy together
 
 See the [feedback document](./feedback.md) for the criteria on which your project will be evaluated.
 
@@ -90,17 +99,16 @@ We will have a debugging queue throughout the week. Remember to have lots of deb
 
 | Group | Participants |
 |------|--------------|
-| Group 1 | nile devin jeffrey |
-| Group 2 | booker derek jamieden |
-| Group 3 | edmund bevon nick |
-| Group 4 | brian caleb antonio |
-| Group 5 | endia brock jane |
-| Group 6 | noah theodore edward |
-| Group 7 | mario martin tess |
-| Group 8 | tavis maria lucy |
-| Group 9 | casey ashley liana |
-| Group 10 | chris danny |
-| Group 11 | lauren kelsey |
+| Group 1 | Dina Terrence Vy |
+| Group 2 | Janie Ryan Daniel |
+| Group 3 | Jelleny Carmen Devin |
+| Group 4 | Jacob Steven Bernarda |
+| Group 5 | Luis Aaron Howard |
+| Group 6 | Morgan Mitch Sam |
+| Group 7 | Ivy Robert Cindy |
+| Group 8 | Cesario Richard Aman |
+| Group 9 | Eddy Yatziry Avi |
+| Group 10 | Caroline Della Darius |
 
 
 </details>
