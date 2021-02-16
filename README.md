@@ -9,7 +9,6 @@ The objective of this project is to:
 * Apply the skills you've learned by building a full-stack web application from the ground up.
 * Demonstrate mastery of topics covered during this course so far.  
 * Build a polished, published website you can share in your portfolio.
-* 'Canadian Sorry' no games, that was last project  
 
 You will be working **in groups of 2-3** for this second project. Show us what you've got!
 
