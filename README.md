@@ -10,7 +10,7 @@ The objective of this project is to:
 * Demonstrate mastery of topics covered during this course so far.  
 * Build a polished, published website you can share in your portfolio.
 
-You will be working **in groups of 2-3** for this second project. Show us what you've got!
+You will be working **in groups of 3** for this second project. Show us what you've got!
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
