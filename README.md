@@ -17,11 +17,11 @@ Make sure to do all of the following with your app.
 
 * **Express** Build an Express Application that responds with server-rendered HTML.
 * **RESTful Routes** Design your CRUD routes using the [REST](https://git.generalassemb.ly/sf-sei-1/express-dynamic-routes#restful-routing-preview) convention.
-* **Postgres** Persist at least two models to a Ppostgres Database. Use at least one **one-to-many** or **many-to-many** relationship between models. **At least one model needs to include full CRUD functionality.**
+* **Postgres** Persist at least two models to a Postgres Database (ie. a `User` model and a `Tweet` model). Use at least one **one-to-many** or **many-to-many** relationship between models. **At least one model needs to include full CRUD functionality.**
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript).
-* **Visual Design** Use Flexbox, CSS Grid, Bootstrap, Materialize, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
-* **Authentication** Enable users to store account information and signup, login, and logout. We will build an example towards the end of the week here.
+* **Visual Design** Use Bootstrap, another CSS framework, or your own custom CSS to make your front-end snazzy. First impressions matter!
+* **Authentication** Enable users to store account information and signup, login, and logout.
 * **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](./example-readme.md) for a suggested structure.
 
 ## PLANNING DELIVERABLES
@@ -48,8 +48,8 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **<Insert own idea>**
 
 ## TIMELINE
-
-* **Friday, Oct 30th** - Project due and presentations!
+* **Monday, February 22nd** - Project planning materials are due and approval meetings with instructors will take place.
+* **Monday, March 1st** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
