@@ -8,6 +8,6 @@
 
 * **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code?
 
-* **Problem Solving**: Are you able to defend why you implemented your solution in a certain way? Can you demonstrate that you thought through alternative implementations? *(Note that this part of your feedback evaluation will take place during your recorded code review by your instructors, after you've completed the project.)*
+* **Collaboration**: Did your group work collaboratively and remain productive throughout the time given? Did each group member contribute to the project in a significant, relatively equal way?
 
 You'll be recorded feedback from your instructors. Each of the criteria above will be evaluated as one of **incomplete**, **does not meet expectations**, **meets expectations**, or **exceeds expectations**.
